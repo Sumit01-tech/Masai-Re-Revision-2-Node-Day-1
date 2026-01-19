@@ -1,0 +1,24 @@
+{
+  "name": "masai-re-revision-2-node-day-1",
+  "version": "1.0.0",
+  "description": "HTTP stands for HyperText Transfer Protocol. It is an application layer protocol used for communication between a client and a server over the internet. A client can be a browser, mobile application, or any frontend system, and a server hosts resources or APIs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sumit01-tech/Masai-Re-Revision-2-Node-Day-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sumit01-tech/Masai-Re-Revision-2-Node-Day-1/issues"
+  },
+  "homepage": "https://github.com/Sumit01-tech/Masai-Re-Revision-2-Node-Day-1#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
